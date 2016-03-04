@@ -9,3 +9,9 @@ D:\SourceCode\Sierra-API2\SierraPacific.Core\bin\Debug\SierraPacific.Core.pdb
 D:\SourceCode\Sierra-API2\SierraPacific.Core\obj\Debug\SierraPacific.Core.csprojResolveAssemblyReference.cache
 D:\SourceCode\Sierra-API2\SierraPacific.Core\obj\Debug\SierraPacific.Core.dll
 D:\SourceCode\Sierra-API2\SierraPacific.Core\obj\Debug\SierraPacific.Core.pdb
+D:\SourceCode\Sierra-API-New\SierraPacific.Core\bin\Debug\SierraPacific.Core.dll.config
+D:\SourceCode\Sierra-API-New\SierraPacific.Core\bin\Debug\SierraPacific.Core.dll
+D:\SourceCode\Sierra-API-New\SierraPacific.Core\bin\Debug\SierraPacific.Core.pdb
+D:\SourceCode\Sierra-API-New\SierraPacific.Core\obj\Debug\SierraPacific.Core.csprojResolveAssemblyReference.cache
+D:\SourceCode\Sierra-API-New\SierraPacific.Core\obj\Debug\SierraPacific.Core.dll
+D:\SourceCode\Sierra-API-New\SierraPacific.Core\obj\Debug\SierraPacific.Core.pdb

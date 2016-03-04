@@ -45,7 +45,7 @@ namespace SierraPacific.Api.Controllers
             catch (DivideByZeroException ex)
             {
                 //Logger logger = LogManager.GetCurrentClassLogger();
-                this.Log().Info("DivideByZeroException");
+                //this.Log().Info("DivideByZeroException");
                 this.Log().Error(ex.Message,ex);
                 //logger.ErrorException("Whoops!", ex);
             }
