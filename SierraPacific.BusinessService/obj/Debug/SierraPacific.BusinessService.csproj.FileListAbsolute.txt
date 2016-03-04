@@ -1,0 +1,14 @@
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.BusinessService\bin\Debug\SierraPacific.BusinessService.dll
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.BusinessService\bin\Debug\SierraPacific.BusinessService.pdb
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.BusinessService\bin\Debug\SierraPacific.Core.dll
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.BusinessService\bin\Debug\SierraPacific.Core.pdb
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.BusinessService\obj\Debug\SierraPacific.BusinessService.csprojResolveAssemblyReference.cache
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.BusinessService\obj\Debug\SierraPacific.BusinessService.dll
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.BusinessService\obj\Debug\SierraPacific.BusinessService.pdb
+D:\SourceCode\Sierra-API2\SierraPacific.BusinessService\bin\Debug\SierraPacific.BusinessService.dll
+D:\SourceCode\Sierra-API2\SierraPacific.BusinessService\bin\Debug\SierraPacific.BusinessService.pdb
+D:\SourceCode\Sierra-API2\SierraPacific.BusinessService\bin\Debug\SierraPacific.Core.dll
+D:\SourceCode\Sierra-API2\SierraPacific.BusinessService\bin\Debug\SierraPacific.Core.pdb
+D:\SourceCode\Sierra-API2\SierraPacific.BusinessService\obj\Debug\SierraPacific.BusinessService.csprojResolveAssemblyReference.cache
+D:\SourceCode\Sierra-API2\SierraPacific.BusinessService\obj\Debug\SierraPacific.BusinessService.dll
+D:\SourceCode\Sierra-API2\SierraPacific.BusinessService\obj\Debug\SierraPacific.BusinessService.pdb

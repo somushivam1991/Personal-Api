@@ -1,0 +1,28 @@
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\bin\Debug\SierraPacific.Repository.dll
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\bin\Debug\SierraPacific.Repository.pdb
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\bin\Debug\SierraPacific.Core.dll
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\bin\Debug\SierraPacific.Core.pdb
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\obj\Debug\SierraPacific.Repository.csprojResolveAssemblyReference.cache
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\obj\Debug\SierraPacific.Repository.dll
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\obj\Debug\SierraPacific.Repository.pdb
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\bin\Debug\EntityFramework.dll
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\bin\Debug\EntityFramework.xml
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\bin\Debug\SierraPacific.Repository.dll.config
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\obj\Debug\SierraPacific.Repository.Database.initial.resources
+E:\_workarea\sierra pacific\SierraPacific\SierraPacific.Repository\obj\Debug\SierraPacific.Repository.csproj.GenerateResource.Cache
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\bin\Debug\SierraPacific.Repository.dll.config
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\bin\Debug\SierraPacific.Repository.dll
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\bin\Debug\SierraPacific.Repository.pdb
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\bin\Debug\EntityFramework.dll
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\bin\Debug\SierraPacific.Core.dll
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\bin\Debug\SierraPacific.Core.pdb
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\bin\Debug\EntityFramework.xml
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\obj\Debug\SierraPacific.Repository.csprojResolveAssemblyReference.cache
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\obj\Debug\SierraPacific.Repository.Database.initial.resources
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\obj\Debug\SierraPacific.Repository.csproj.GenerateResource.Cache
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\obj\Debug\SierraPacific.Repository.dll
+D:\SourceCode\Sierra-API2\SierraPacific.Repository\obj\Debug\SierraPacific.Repository.pdb
